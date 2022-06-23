@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeFitCase_Assignment", "MeFitCase_Assignment.csproj", "{66D12097-33A0-41CA-B8CB-EABE74435EC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{16D3F7A3-880F-4F37-9AE8-0B181267121A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		Readme.MD = Readme.MD
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D12097-33A0-41CA-B8CB-EABE74435EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D12097-33A0-41CA-B8CB-EABE74435EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D12097-33A0-41CA-B8CB-EABE74435EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D12097-33A0-41CA-B8CB-EABE74435EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A4CD8EE-CFD3-4ACF-B08B-0F7A57D61D89}
+	EndGlobalSection
+EndGlobal
